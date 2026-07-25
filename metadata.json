@@ -1,0 +1,6 @@
+{
+  "name": "Pro Trader",
+  "description": "Production-ready Deriv Trading Platform & Automated Bot Workspace with real-time WebSocket tick stream, Digit Analysis, and AI strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
